@@ -1,0 +1,15 @@
+{
+  "generators": {
+    "modules": {
+
+    }
+  },
+  "hooks": {
+    "session" : false
+  },
+  "connections":{
+      "mongo":{
+         "ssl": true
+      }
+  }
+}
